@@ -1,10 +1,10 @@
 # Développement d’une Application d’Extraction d’Objets à partir des images
 
 1. Objectif de projet : 
-*Se familiariser avec le concept machine learning et deep learning.
-*La prise en main de Tensorflow, Keras et Open cv.
-*Conception d’un réseau de neurone de convolution classifiant une image.
-*Le concept d’entrainement et de test d’un réseau de neurone de convolution.
+* Se familiariser avec le concept machine learning et deep learning.
+* La prise en main de Tensorflow, Keras et Open cv.
+* Conception d’un réseau de neurone de convolution classifiant une image.
+* Le concept d’entrainement et de test d’un réseau de neurone de convolution.
  
 2. Machine Learning / Deep Learning :
 
