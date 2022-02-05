@@ -9,7 +9,7 @@
 2. Machine Learning / Deep Learning :
 
 Le Machine learning et le Deep learning font partie de l’intelligence artificielle. Ces approches ont toutes deux pour résultat de donner aux ordinateurs la capacité de prendre des décisions intelligentes. Cependant, le Deep learning est une sous-catégorie du Machine learning, car il s’appuie sur un apprentissage sans surveillance.
-![image](https://user-images.githubusercontent.com/81876011/152657743-20a45003-fdb2-40f9-96bc-03ced95dc63a.png)
+![image](https://user-images.githubusercontent.com/81876011/152657743-20a45003-fdb2-40f9-96bc-03ced95dc63a.png =250x250)
 
 Le Machine learning (apprentissage automatique) est la technologie la plus ancienne et la plus simple. Elle s’appuie sur un algorithme qui adapte lui-même le système à partir des retours faits par l’humain. La mise en place de cette technologie implique l’existence de données organisées. Le système est ensuite alimenté par des données structurées et catégorisées lui permettant de comprendre comment classer de nouvelles données similaires. En fonction de ce classement, le système exécute ensuite les actions programmées. Il sait par exemple identifier si une photo montre un chien ou un chat et classer le document dans le dossier correspondant.
 
@@ -32,8 +32,8 @@ MobileNets, Présente des modèles de réseaux de  neurones convolutionnels (CNN
 * Précision redoutable, surtout pour les ressources  consommées
 * Facilement configurables pour améliorer la précision de la détection
 
-![image](https://user-images.githubusercontent.com/81876011/152659131-a259699d-a97f-40b7-9589-c66634b67ae9.png)
-![image](https://user-images.githubusercontent.com/81876011/152659133-4dec232a-f358-443b-a29d-c3700f901154.png)
+![image](https://user-images.githubusercontent.com/81876011/152660330-fc438867-7ea9-40e7-94de-830c824a040f.png)
+
 
 
 
