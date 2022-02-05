@@ -15,6 +15,31 @@ Le Machine learning (apprentissage automatique) est la technologie la plus anci
 
 Le Deep learning (apprentissage profond) n’a pas besoin de données structurées. Le système fonctionne à partir de plusieurs couches de réseaux neuronaux, qui combinent différents algorithmes en s’inspirant du cerveau humain. Ainsi, le système est capable de travailler à partir de données non structurées.
 
+3. Outils et technologies utilisés :
+
+![Capture d’écran 2022-02-05 220151](https://user-images.githubusercontent.com/81876011/152658926-968aee90-892b-424c-8364-69ede7a763b8.png)
+
+## Classifieur d’images : MobileNet
+MobileNets, Présente des modèles de réseaux de  neurones convolutionnels (CNN) pré-entrainés basés sur  TensorFlow :
+* Détection d’objet (personne, bus, avion, voiture, chien,  chat, écran TV, etc…)
+* Visages (attributs d’un visage notamment)
+* Reconnaissance de lieux et de paysages
+* Classification « fine-grained » , c’est-à-dire entre des espèces d’une même race (chien, chat, rouge-gorge,..)
+
+## Caractéristiques :
+* Extrêmement légers et petits (en termes de ligne de  code et de poids des modèles)
+* Infiniment rapides
+* Précision redoutable, surtout pour les ressources  consommées
+* Facilement configurables pour améliorer la précision de la détection
+
+![image](https://user-images.githubusercontent.com/81876011/152659131-a259699d-a97f-40b7-9589-c66634b67ae9.png)
+![image](https://user-images.githubusercontent.com/81876011/152659133-4dec232a-f358-443b-a29d-c3700f901154.png)
+
+
+
+
+
+
 
 
 
